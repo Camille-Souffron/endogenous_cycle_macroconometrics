@@ -1,6 +1,4 @@
-My Master's Thesis: _**"Are Cycles Cyclical? A Macroeconometric Enquiry into Endogenous Financial Fluctuations".**_
-
-Done at the *Paris School of Economics* (PSE) & the *Ecole Normale Supérieure* (ENS).
+My Master's Thesis: _**"Are Cycles Cyclical? A Macroeconometric Enquiry into Endogenous Financial Fluctuations"**_, done at the *Paris School of Economics* (PSE) & the *Ecole Normale Supérieure* (ENS) (_Summa cum laude_).
 
 Supervised by Prof. Catherine Doz & Tobias Broer. Referee: Giovanni Ricco (CREST).
 
@@ -9,3 +7,5 @@ This thesis investigates whether postwar U.S. macro-financial dynamics are consi
 **Keywords:** _Endogenous fluctuations, Financial cycle, Spectral & wavelet analysis, Limit cycles, Macroeconometrics, Macrofinance._
 
 **JEL codes:** E32, C32, E44, C63
+
+_**NB:** All codes are commented, pipelined by chapter, and allow for the selection of relevant parameters and methods for robustness testing and data adaptability._
